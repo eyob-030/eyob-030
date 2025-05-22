@@ -32,7 +32,7 @@ I build real-world projects to sharpen my backend and database skills, including
 - Team projects to prepare for internships
 
 ### 💋 How to Reach Me
-- **Email:** eyobtesfaye24@gmail.com
+- **Email:** eyobt030@gmail.com
 - **GitHub:** [EyobTesfaye](https://github.com/EyobTesfaye)
 
 ### 😄 Pronouns
