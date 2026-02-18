@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFC6&center=true&vCenter=true&width=400&height=100&lines=Hi+there!+I'm+Eyob+Tesfaye+%F0%9F%91%8B;Aspiring+Database+Administrator;Web+Developer+%7C+Node.js+%2B+MySQL;Always+Learning+and+Building" alt="Typing SVG" />
 </p>
 
-I'm a 3rd-year IT student at **Dire Dawa University** from **Addis Ababa**, passionate about becoming a **Database Administrator**.
+I'm a 4th-year IT student at **Dire Dawa University** from **Addis Ababa**, passionate about becoming a **Database Administrator**.
 I build real-world projects to sharpen my backend and database skills, including **student management systems** and **e-commerce sites**.
 
 ### 👀 Interests
