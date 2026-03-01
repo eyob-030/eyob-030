@@ -6,7 +6,7 @@
 </p>
 
 # ✪ About Me:
-<p align="left">
+<p align="lef">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFC6&center=true&vCenter=true&width=400&height=100&lines=Hi+there!+I'm+Eyob+Tesfaye+%F0%9F%91%8B;Aspiring+Database+Administrator;Web+Developer+%7C+Node.js+%2B+MySQL;Always+Learning+and+Building" alt="Typing SVG" />
 </p>
 
